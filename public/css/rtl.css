@@ -1,0 +1,8 @@
+body .card-body{
+    direction: rtl;
+    text-align: right;
+    background-color: #E3AFBC;
+    font-family: Tahoma;
+}
+
+
